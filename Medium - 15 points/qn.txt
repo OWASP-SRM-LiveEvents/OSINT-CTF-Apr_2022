@@ -1,0 +1,17 @@
+Title - Script Kiddie
+Qn 1 - 7.5 points
+Qn 2 - 7.5 points
+
+
+
+We received an unofficial triage from our team, a guy who claims himself as “alien Hacker” is planning to attack our owasp srm server via some automated scripts. Well, he is a good programmer but not sure about hacking :)
+We need two parameters from your OSINT master!
+
+Qn 1- Which domain of our server is at risk?
+Also, he thinks he is too smart, but never knows he is a script kiddie too, 
+
+Qn 2- give his exposed identity leakage by decoding a few logics 
+
+
+
+[hint]: He is a huge follower of Mr. Kevin Mitnick
