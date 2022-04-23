@@ -10,7 +10,11 @@ We need two parameters from your OSINT master!
 Qn 1- Which domain of our server is at risk?
 Also, he thinks he is too smart, but never knows he is a script kiddie too, 
 
-Qn 2- give his exposed identity leakage by decoding a few logics 
+Qn 2- give his exposed identity leakage by decoding a few logics
+
+Qn 3 - Can you find our what African country this car is frommmmmm??? --
+https://drive.google.com/file/d/1fB8yq5PvZr3P-Ba0tX8RW0YoNHjv1GMV/view?usp=sharing
+Flag format-- OSINT{country_name_in_all_lowercase}
 
 
 
