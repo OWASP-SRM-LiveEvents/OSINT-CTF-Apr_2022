@@ -7,4 +7,4 @@ Qn 1) Can you find how many discussion posts did the user Sinetheta make while â
 
 Qn 2) What does the user K@5p3r do for a living?
 
-Qn 3) One of the organizers of this event loves to dabble with flutter. He recently made a project that allows you to swap certain data of two faces. However, he has been facing issues storing the secret keys of his APIs on github. Get the secret key(in flag format OWASP{your_flag_here}) and you have the answer!
+Qn 3) One of the organizers of this event loves to dabble with flutter. He recently made a project that allows you to swap certain data of two faces. However, he has been facing issues storing the secret keys of his APIs on github. Get the secret key(in flag format OSINT{your_flag_here}) and you have the answer!
